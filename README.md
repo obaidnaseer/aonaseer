@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @aonaseer
-- 🔍 I’m interested in web development and UX design.
-- 🌱 I’m currently learning web development.
+- 🔍 I’m interested in web design and Devlopment.
+- 🌱 I’m currently learning Javascript.
